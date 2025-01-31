@@ -1,0 +1,23 @@
+retrieve data:
+    array -> O(1), that means constant
+    linked list -> O(n) and n is for the size, depends n/size
+
+time complexity:
+    time complexity from faster to slow:
+        O(1), O(log n), O(sqrt(2)), O(n) the standard, O(n^2), O(2n), O(n!) super slow
+    
+    O(log n): 
+        binary search: 
+            2^x = n, x = log2(n), if n = 8, x = 3, that means we need 3 steps to find the number
+    O(n^2): 
+        nested for loop, for loop inside for loop
+
+    O(n): 
+        linear search, for loop
+    
+    O(1): fastest
+        hash function, hash tables, maps in go, array
+
+    O(n!): will be extremely slow, example:
+        if you have 100 elements, 100! = 100.99.98.... is 9.332621544394415e+157
+    
