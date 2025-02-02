@@ -1,3 +1,5 @@
+# So stacs and queues erat hubungannya dengan priority
+
 #Stacks
 
 class Stack:

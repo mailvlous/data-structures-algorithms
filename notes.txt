@@ -36,3 +36,6 @@ inheritance, polymorphism, encapsulation, abstraction:
     inheritance: 
         
     polymorphism:
+
+Sets:
+    The difference between sets and array/dynamic array, that sets has no orders and no duplicates  
