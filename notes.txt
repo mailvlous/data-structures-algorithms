@@ -20,4 +20,19 @@ time complexity:
 
     O(n!): will be extremely slow, example:
         if you have 100 elements, 100! = 100.99.98.... is 9.332621544394415e+157
+
+Arrays vs Linked Lists:
+
     
+
+inheritance, polymorphism, encapsulation, abstraction:
+    misal kita punya class Camera(no, position) dan class Sensor(distance, resolution)
+    keduanya mewarisi class SecurityDevice(active, location):
+        artinya class Camera dan Sensor adalah subclass dari SecurityDevice dan 
+        memiliki semua atribut dan method yang ada di SecurityDevice yaitu active dan location
+    
+    
+
+    inheritance: 
+        
+    polymorphism:
